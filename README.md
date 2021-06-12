@@ -8,7 +8,7 @@ G## 在這裡寫下組名
 
 領取作業後，請在最上方的標題寫下組別 (e.g. `G01`) 以及組名，並在標題下方寫下組員姓名。組別與組名對照，見下表：
 
-![組別與組名對照](https://img.yongfu.name/rlads2019_groupname.png)
+![組別與組名對照](https://img.yongfu.name/rlads/2021GID.png)
 
 ----
 
